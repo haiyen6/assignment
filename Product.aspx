@@ -55,6 +55,6 @@
         
         
     </ol>
-    <h5 ><a style="color:blue; margin-left:100px; "href="Category.aspx">Loại sản phẩm</a></h5>
+    <h5 ><a style="color:green; margin-left:100px; "href="Category.aspx">Loại sản phẩm</a></h5>
 </asp:Content>
 
