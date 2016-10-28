@@ -38,5 +38,5 @@
             </asp:SqlDataSource>
         </li>
         </ol>
-    <h5 ><a style="color:red; margin-left:100px; "href="Chitiet.aspx">Chi Tiết Hóa Đơn</a></h5>
+    <h5 ><a style="color:blue; margin-left:100px; "href="Chitiet.aspx">Chi Tiết Hóa Đơn</a></h5>
 </asp:Content>

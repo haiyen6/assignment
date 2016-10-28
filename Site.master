@@ -38,7 +38,7 @@
         <div class="content-wrapper">
             <div class="float-left">
                 <p class="site-title">
-                    <asp:Image ID="Image1" runat="server" src="Images/cloudkicks-logo-ampedpixel.png" Height="150px" Width="240px" />
+                    <asp:Image ID="Image1" runat="server" src="Images/cloudkicks-logo-ampedpixel.png" Height="106px" Width="158px" />
                 </p>
             </div>
             <div class="float-right">
